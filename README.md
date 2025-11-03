@@ -9,6 +9,8 @@ Adaptive Transformer–RL Framework for Sentiment-Driven Financial Forecasting
 
 This repository contains the official implementation of the hybrid framework proposed in our MDPI Forecasting 2025 paper:
 ## "From Market Volatility to Predictive Insight: An Adaptive Transformer–RL Framework for Sentiment-Driven Financial Time-Series Forecasting"
+URL：https://www.mdpi.com/2571-9394/7/4/55
+
 The framework integrates domain-specific sentiment analysis, heterogeneous prediction models (SVR + Transformer variants), and Deep Q-Network (DQN)-driven dynamic ensembling to address the challenges of financial time-series forecasting (e.g., market volatility, nonlinear regimes, and sentiment-quant data fusion).
 
 ## Paper Abstract
